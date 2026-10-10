@@ -18,5 +18,4 @@ async def ping(ctx):
     await ctx.send("Pong! 🏓 البوت يعمل بنجاح!")
 
 
-bot.run("MTU1ODU4NTYwNzg5NzQ4NTM3Mg.GiyzPR.q7PG5uDHwtTnvnspSUxr4QOgyIgyIjBMlsaIwU
-")
+bot.run("MTU1ODU4NTYwNzg5NzQ4NTM3Mg.GiyzPR.q7PG5uDHwtTnvnspSUxr4QOgyIgyIjBMlsaIwU")
